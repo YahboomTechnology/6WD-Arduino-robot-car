@@ -1,5 +1,5 @@
 # 6WD-Arduino-robot-car
-![](http://r.photo.store.qq.com/psb?/V12aIGgQ3D78BF/tl68klGt20wcuL*SGTG6nVeDgTdrHg4Bdc*fzLo7QZI!/r/dDEBAAAAAAAA)
+![](https://github.com/YahboomTechnology/6WD-Arduino-robot-car/blob/master/Yahboom_6WD.jpg)
 # Introduction
 Yahboom 6WD off-road smart robot is a high-performance mobile robot based on Arduino UNO with WIFI camera module and Bluetooth 4.0. Equipped with multifunctional 6WD expansion board, all kinds of high-quality modules, aluminum alloy chassis， and large capacity battery, it can move neatly and quickly on the indoor floors, complex streets, outdoor lawns, inclined surfaces, stairs and so on. This robot supports two independent remote control methods: Bluetooth App remote control by Android mobile and the WIFI remote control by Android mobile. We also reserve some holes in the external structure for users to expand by themselves. This will give you a more interesting installation and handling experience than any other robot kit.
 # Features
@@ -18,9 +18,7 @@ Yahboom 6WD off-road smart robot is a high-performance mobile robot based on Ard
 [By on Amazon](https://www.amazon.com/Yahboom-Chassis-Wheels-Encoder-Arduino/dp/B07MFY86V6/ref=sr_1_45?m=A1N1A77RUX51FT&marketplaceID=ATVPDKIKX0DER&qid=1567586472&s=merchant-items&sr=1-45)
 
 [By on Yahboom website](https://category.yahboom.net/collections/a-smart-robot/products/ar6wdrobot)
-# Download Method
 
-![](http://r.photo.store.qq.com/psb?/V12aIGgQ3D78BF/WQ.mwecNlBu5JKAgeh99*MuO*r8mqnat*SYG*ry7g.Q!/r/dL4AAAAAAAAA)
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
 ### Facebook:
