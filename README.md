@@ -15,7 +15,6 @@ Yahboom 6WD off-road smart robot is a high-performance mobile robot based on Ard
 
 * Controlled by two remote control methods: App by Android mobile can realize some functions such as remote control robot, photo, video and so on with high-quality WIFI camera module; Bluetooth App remote control by Android mobile can control the robot with Bluetooth 4.0 on the robot.
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/Yahboom-Chassis-Wheels-Encoder-Arduino/dp/B07MFY86V6/ref=sr_1_45?m=A1N1A77RUX51FT&marketplaceID=ATVPDKIKX0DER&qid=1567586472&s=merchant-items&sr=1-45)
 
 [By on Yahboom website](https://category.yahboom.net/collections/a-smart-robot/products/ar6wdrobot)
 
